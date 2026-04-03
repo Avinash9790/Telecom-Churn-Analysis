@@ -44,4 +44,7 @@ Dataset: IBM Telco Churn (Kaggle)
 - `Telecom-Churn-Analysis.sql` - SQL Queries
 - `Telecom-Churn-Analysis.ipynb` - EDA
 
+![Dashboard 1](<Dashboard 1.png>)
+![Dashboard 2](<Dashboard 2.png>)
+![Dashboard 3](<Dashboard 3.png>)
 
