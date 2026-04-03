@@ -39,7 +39,7 @@ Dataset: IBM Telco Churn (Kaggle)
 
 ## 📁 Files
 - `Telecom-Churn-Analysis.pbix` - All 3 dashboards
-- `Dashboard1.png`, `Dashboard2.png`, `Dashboard3.png` - Screenshots
+- `Dashboard 1.png`, `Dashboard 2.png`, `Dashboard 3.png` - Screenshots
 - `Telecom-Churn-Analysis.docx` - SQL analysis + insights
 - `Telecom-Churn-Analysis.sql` - SQL Queries
 - `Telecom-Churn-Analysis.ipynb` - EDA
